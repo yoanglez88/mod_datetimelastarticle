@@ -1,0 +1,21 @@
+.datetime-header {
+	font-size: 10px;
+	margin-bottom: 0;
+	margin-top: 5px;
+	text-transform: uppercase	
+}
+
+.datetime-title {
+	font-weight: bold;
+	font-size: 10px;
+	margin-bottom: 0;
+	margin-top: 5px;
+	text-transform: uppercase
+}
+
+.datetime-value {
+	color: #b72221;
+	font-size: 22px;
+	line-height: 20px;
+	text-transform: uppercase
+}
